@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AriesApi", "AriesApi\AriesApi.csproj", "{A720273F-AD3D-4B1E-9B30-376BDA93B11F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AriesApiTest", "AriesApiTest\AriesApiTest.csproj", "{CDB70A53-266B-4AEB-9A7D-9D4E4F5859D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A720273F-AD3D-4B1E-9B30-376BDA93B11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A720273F-AD3D-4B1E-9B30-376BDA93B11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A720273F-AD3D-4B1E-9B30-376BDA93B11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A720273F-AD3D-4B1E-9B30-376BDA93B11F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB70A53-266B-4AEB-9A7D-9D4E4F5859D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB70A53-266B-4AEB-9A7D-9D4E4F5859D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB70A53-266B-4AEB-9A7D-9D4E4F5859D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB70A53-266B-4AEB-9A7D-9D4E4F5859D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

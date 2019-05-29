@@ -1,0 +1,77 @@
+{
+    "status": "success",
+  "data": {
+    "_id": "5b72d2f6e45e321a2e96d251",
+    "simulation_step": 7297,
+    "simulation_id": "5b72d2e2e45e321a2e967cb9",
+    "simulation_result": {
+      "B0": {
+        "real": 10.736046501091344,
+        "imag": -0.03351327202899204
+      },
+      "B1": {
+        "real": 4.298619745304598,
+        "imag": -0.012355199796137507
+      },
+      "B2": {
+        "real": 6.437426755786747,
+        "imag": -0.02115807223285453
+      },
+      "AGENT0": {
+        "real": 4.298619745304598,
+        "imag": -0.012355199796137507
+      },
+      "AGENT1": {
+        "real": 6.437426755786747,
+        "imag": -0.02115807223285453
+      },
+      "power_from_main": {
+        "real": 2469.2906952510093,
+        "imag": 7.70805256666817
+      },
+      "distribution_loss": {
+        "real": 30.306661228036212,
+        "imag": 0
+      }
+    },
+    "agents_states": {
+      "AGENT0": {
+        "impedance": {
+          "resistance": 52.9,
+          "reactance": 12.1231233
+        },
+        "inject_power": {
+          "active_power": 433.1234,
+          "reactive_power": 1234.12344
+        },
+        "demand_power": {
+          "active_power": 344.234,
+          "reactive_power": 2345.6236
+        },
+        "battery_power": {
+          "active_power": -236.65,
+          "reactive_power": 3565.656256
+        }
+      },
+      "AGENT1": {
+        "impedance": {
+          "resistance": 152.9,
+          "reactance": 112.1231233
+        },
+        "inject_power": {
+          "active_power": 1433.1234,
+          "reactive_power": 11234.12344
+        },
+        "demand_power": {
+          "active_power": 1344.234,
+          "reactive_power": 12345.6236
+        },
+        "battery_power": {
+          "active_power": -1236.65,
+          "reactive_power": 13565.656256
+        }
+      }
+    },
+    "valid": true
+  }
+}
